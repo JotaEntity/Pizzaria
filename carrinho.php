@@ -27,10 +27,6 @@
 </div>
 </div>
 <div class="checkout">
-AAAAAAAAAAAAAAAAA
-Adriano
-jota
-1
 </div>
 
 <html>
