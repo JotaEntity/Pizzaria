@@ -25,12 +25,6 @@
 <br/>
 <br/>
 
-<<<<<<< HEAD
-=======
-<!--carousel de imagens-->
-
-<div id="carro"></div>
->>>>>>> 4720d86d0d70d8c5e552a3653693b019d9a6ae41
 
 <!-- Controles direita e esquerda 
   <a class="left carousel-control" href="#novoCarousel" role="button" data-slide="prev">

@@ -18,17 +18,12 @@
 <p align="center">Seu carrinho atual:</p>
 
 <p id="carrinhoatual"></p>
-<<<<<<< HEAD
-=======
 
->>>>>>> 4720d86d0d70d8c5e552a3653693b019d9a6ae41
 
 <br/>
 <br/>
 
 <?php include("footer.php")?>
-<<<<<<< HEAD
-=======
 </div>
 </div>
 <div class="checkout">
@@ -37,7 +32,6 @@ Adriano
 jota
 1
 </div>
->>>>>>> 4720d86d0d70d8c5e552a3653693b019d9a6ae41
 
 <html>
 <body>
