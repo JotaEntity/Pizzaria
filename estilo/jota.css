@@ -1,0 +1,352 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 40%;
+  }
+  .card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+	padding: 2px 16px;
+  }
+.rapo {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-column-gap: 10px;
+	grid-row-gap: 1em;
+ }
+grid-container {
+	display: grid;
+	grid-column-gap: 50px;
+	grid-template-columns: auto auto auto;
+	background-color: #2196F3;
+	padding: 10px;
+  }
+.grid-item {
+	background-color: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+  }
+.box{
+	background: #e57373;
+	border-radius: 3px;
+	border: 0px;
+}
+hr{
+	border: 0.8px #e0e0e0 solid !important;
+}
+brancao{
+	color: #e0e0e0 solid !important;
+	width: 150px;
+	height: 150px;
+}
+.green{
+	color: #21b428 solid !important;
+    text-align: center;
+}
+
+.imgjota{
+	margin-top: 15px !important;
+	padding: 20px;
+}
+
+
+.pizzafundo{
+	width: 100%;
+	margin: 0 auto;
+	background: #995501;
+}
+nav .nav-wrapper{
+	padding-bottom: 0px !important;
+	margin-bottom: 0px !important;
+	background: #995501;
+}
+.textojota{
+	width: 500px !important;
+	height: 500px !important;
+}
+imagemdamalu{
+	margin-top: 15px !important;
+	padding: 20px;
+}
+nav ul a{
+	font-size: 18px !important;
+	color: white !important;
+}
+nav ul > .active{
+	color: white !important;
+}
+nav ul > .active a{
+	color: #ff8c00 !important;
+}
+.clientes {
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.t-img{
+	color: white !important;
+}
+.tabela {
+	width: 60%;
+}
+.imagem{
+	width: 100%;
+	height: 100%;
+}
+.padding {
+	padding-bottom: 400px;
+}
+.anunciopizza{
+	background-color:#312d28;
+	background-image: linear-gradient(to right, rgba(255,255,255,1) 1px, transparent 1px), linear-gradient(to right, rgba(255,255,255,.3) 1px, transparent 1px);
+	background-size: 50px 50px, 10px 30px;
+	background-repeat: repeat-x;
+	background-position: 0 bottom;
+
+}
+.topo{
+	margin: 0 auto;
+	height: 400px !important;
+	max-height: 400px !important;
+	background-image: url("../imagem/pizza_01.jpg")  repeat-none;
+}
+.jota{
+	width: 100%;
+	background-image:url("../img/testednv.jpg") repeat-none;
+	background-size: cover;
+	height: 300px !important;
+	max-height: 300px !important;
+	padding: 45px;
+}
+.pizza{
+	text-align: center;
+	color: #995501;
+
+
+}
+.preto{
+	color: #9e9e9e !important;
+	background-image: url("../img/php-hd.jpg")  repeat-none;
+}
+.texto{
+	padding-top: 70px;
+	font-weight: bold;
+}
+h2{
+	margin-top: 0px !important;
+}
+.page-footer{
+	padding: 0px !important;
+	margin: 0px !important;
+
+	padding-bottom: 0px !important;
+}
+.ftpizzas{
+	width: 350px;
+	height: 350px;
+}
+.page-footer p{
+	padding: 30px;
+	font-weight: bold;
+	font-size: 18px !important;	
+}
+.fa-heart{
+	color: red !important;
+}
+p{
+	margin: 0 auto;
+}
+.fundodapizza  {
+	background-image: url("https://i.pinimg.com/736x/f6/73/f1/f673f14346db0c0eb4c7b86198027919.jpg");
+}
+
+.checkoutlado  {
+	float: left;
+	width: 50%;
+	height: 50%;
+}
+.conteudo{
+	width: 90%;
+	margin: 0 auto;
+}
+.text-black{
+	color: #9e9e9e !important;
+	font-weight: bold;
+}
+.big{
+	font-size: 40px !important;
+	color: #0288d1 !important;
+}
+.cinza{
+	background-image: url("../img/backpizza.png")  repeat-none;
+}
+.laranja{
+	background-color:  #995501;
+}
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 10px;
+	grid-auto-rows: 200px;
+	grid-template-areas:
+	  ". a a ."
+	  ". a a .";
+  }
+.lateral{
+	background-color:  #995501;
+	padding: 10px;
+}
+.item1 {
+	grid-area: a;
+	align-self: center;
+	justify-self: center;
+	background-color: #ffffff;
+  }
+i {
+ color: #995501;
+}
+h4 {
+	color: #995501;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+.centro {
+	color: #995501;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+
+}
+
+.centronovo {
+	color: #259901;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+
+}
+h5 {
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+
+}
+crapizza {
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+
+}
+crspizza {
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+
+}
+
+.dropdown-content li>a, .dropdown-content li>span{
+	color: black !important;
+}
+input{
+	border-bottom: 0px !important;
+}
+.campo{
+	padding: 2px 8px !important; 
+	border: 1px #0288d1 solid !important; 
+	background: white !important;
+	width: 50% !important;
+	border-radius: 5px !important;
+}
+.formulario{
+	width: 60% !important;
+}
+.botaoverde {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.total{
+	width: 90% !important;
+}
+.topo .img{
+	width: 23% !important;
+	
+}
+.modal {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+  }
+  .modal:target {
+	opacity: 1;
+	pointer-events: auto;
+  }
+  .modal > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 15px 20px;
+	background: #fff;
+  }
+  .fechar {
+	position: absolute;
+	width: 30px;
+	right: -15px;
+	top: -20px;
+	text-align: center;
+	line-height: 30px;
+	margin-top: 5px;
+	background: #ff4545;
+	border-radius: 50%;
+	font-size: 16px;
+	color: #8d0000;
+  } 
+.linha-vertical {
+	height: 500px !important;/*Altura da linha*/
+	border-left: 2px solid !important;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+}
